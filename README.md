@@ -6,7 +6,7 @@
 <img src= "https://stickers-muraux-enfant.fr/10910-large_default/stickers-dragon-ball-z-dbz.jpg"
 <head>
 <link rel="stylesheet" href="style.css"/>
-<title> Hello world </title>
+<title> La vie est un long fleuve tranquille </title>
 <meta charset="UTF-8">
 </head>
 
